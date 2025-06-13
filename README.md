@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on building and modifying custom websites for clients. <br>I am looking to collaborate on frontend animations and features. <br>I'm looking for help with new ideas, tips & tricks, and inspiration. <br>I'm currently learning Data science to optimise data handling usage. <br>Ask me about my interesting career path. <br>Fun fact about me, I taught myself how to knit and now I'm pretty mediocre at it. 
+Hi there! 👋 I build and modify custom websites for clients 💻 and am eager to collaborate on frontend animations and features ✨. I'm always on the lookout for new ideas, tips, and inspiration to enhance user experience. Outside of that, I'm currently learning data science 📊 to optimize data handling. You could say I have a pretty interesting career path 🚀.
+Fun Fact: I taught myself how to knit—I'm still pretty mediocre at it! 🧶😅
 
 
 # 💻 Tech Stack:
